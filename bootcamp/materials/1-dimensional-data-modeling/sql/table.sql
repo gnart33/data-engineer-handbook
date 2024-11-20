@@ -38,9 +38,3 @@ select
 	
 from today t full outer join yesterday y
 	on t.player_name = y.player_name
-	
-	
-	
-	
-	
-	
